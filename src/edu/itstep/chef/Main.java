@@ -12,6 +12,14 @@ public class Main {
     tomato - томат
     sunflower oil - масло подсолнечное
     salt - соль
+    sdfsdfds
+    sdfsdfds
+    dsfsdfds
+    sdfdsfds
+
+    dsfdsfsd
+
+
     */
 
     public static void main(String[] args) throws IOException {
